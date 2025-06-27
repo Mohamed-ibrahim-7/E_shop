@@ -1,0 +1,389 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\E_shop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\E_shop.l4guu0y854.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\assets\\admin\\charts\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\assets\\admin\\charts\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\assets\\admin\\charts\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\assets\\admin\\charts\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\assets\\admin\\charts\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\assets\\admin\\charts\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\assets\\admin\\charts\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\assets\\admin\\charts\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\assets\\admin\\images\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\assets\\admin\\images\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\css\\admin\\styles.css",
+      "PackagePath": "staticwebassets\\css\\admin\\styles.css"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\css\\customer\\styles.css",
+      "PackagePath": "staticwebassets\\css\\customer\\styles.css"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\images\\114dfb49-fe06-4619-af6c-401a21ab800d.webp",
+      "PackagePath": "staticwebassets\\images\\114dfb49-fe06-4619-af6c-401a21ab800d.webp"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\images\\17425539-35d7-4f19-bc3c-06d048a8266e.jfif",
+      "PackagePath": "staticwebassets\\images\\17425539-35d7-4f19-bc3c-06d048a8266e.jfif"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\images\\50fda5df-9f2f-44db-a8ff-c22fc015306b.jfif",
+      "PackagePath": "staticwebassets\\images\\50fda5df-9f2f-44db-a8ff-c22fc015306b.jfif"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\images\\535dfda9-9c04-4468-a2b7-66ffd51201fa.webp",
+      "PackagePath": "staticwebassets\\images\\535dfda9-9c04-4468-a2b7-66ffd51201fa.webp"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\images\\5518b4f6-e326-441c-81d5-9c2c17fd1f54.jfif",
+      "PackagePath": "staticwebassets\\images\\5518b4f6-e326-441c-81d5-9c2c17fd1f54.jfif"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\images\\55404ea7-b634-4d67-b9a5-f1fb1c79485f.jfif",
+      "PackagePath": "staticwebassets\\images\\55404ea7-b634-4d67-b9a5-f1fb1c79485f.jfif"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\images\\584bf732-c0c4-4528-95db-0e1a2438acf2.jfif",
+      "PackagePath": "staticwebassets\\images\\584bf732-c0c4-4528-95db-0e1a2438acf2.jfif"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\images\\5beeac98-4ae2-4a08-b0e2-3e1be07b3211.jfif",
+      "PackagePath": "staticwebassets\\images\\5beeac98-4ae2-4a08-b0e2-3e1be07b3211.jfif"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\images\\6521dfc2-27bc-460d-bc05-0a583f581e6f.jfif",
+      "PackagePath": "staticwebassets\\images\\6521dfc2-27bc-460d-bc05-0a583f581e6f.jfif"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\images\\6fb47d9c-0026-46d7-9844-8e1318d5444d.jfif",
+      "PackagePath": "staticwebassets\\images\\6fb47d9c-0026-46d7-9844-8e1318d5444d.jfif"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\images\\71b5f66f-3cc1-41f7-8184-183ab8727faf.jfif",
+      "PackagePath": "staticwebassets\\images\\71b5f66f-3cc1-41f7-8184-183ab8727faf.jfif"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\images\\7806690d-caf8-4cee-8ba5-07e0bde4031e.jfif",
+      "PackagePath": "staticwebassets\\images\\7806690d-caf8-4cee-8ba5-07e0bde4031e.jfif"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\images\\7c8cc1ee-48e9-44f7-b2bc-0f671ec9c4fb.jfif",
+      "PackagePath": "staticwebassets\\images\\7c8cc1ee-48e9-44f7-b2bc-0f671ec9c4fb.jfif"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\images\\8f307f3e-cf61-4218-9a85-bfb2d59f02ef.jfif",
+      "PackagePath": "staticwebassets\\images\\8f307f3e-cf61-4218-9a85-bfb2d59f02ef.jfif"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\images\\98bd6b51-3cf5-4f03-9fd0-452169ddb8d8.jfif",
+      "PackagePath": "staticwebassets\\images\\98bd6b51-3cf5-4f03-9fd0-452169ddb8d8.jfif"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\images\\e14929d0-9674-4c01-a8a3-bf6b739eff1f.webp",
+      "PackagePath": "staticwebassets\\images\\e14929d0-9674-4c01-a8a3-bf6b739eff1f.webp"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\images\\fccabb37-f6a2-4199-9c81-91085d33ec26.jfif",
+      "PackagePath": "staticwebassets\\images\\fccabb37-f6a2-4199-9c81-91085d33ec26.jfif"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\js\\admin\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\js\\admin\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\js\\admin\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\admin\\scripts.js"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\js\\customer\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\customer\\scripts.js"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\My Project\\E_shop\\E_shop\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.E_shop.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.E_shop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.E_shop.props",
+      "PackagePath": "build\\E_shop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.E_shop.props",
+      "PackagePath": "buildMultiTargeting\\E_shop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.E_shop.props",
+      "PackagePath": "buildTransitive\\E_shop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
